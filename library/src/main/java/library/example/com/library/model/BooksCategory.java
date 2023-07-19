@@ -1,0 +1,7 @@
+package library.example.com.library.model;
+
+public enum BooksCategory {
+    ENTERTAINMENT, NOVEL, HISTORIC, STORY, COMIC,PROGRAMMING,MATHS,LANGUAGE,LEARN_OS,ALGORITHMS,SCIENCE,
+    BIOGRAPHIES,COOKING
+}
+
